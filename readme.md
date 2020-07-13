@@ -19,19 +19,19 @@ To run this starter project, simply execute `rackup` in your console
 # 3. Challenge!
 ## The Task
 You need to create a simple web application that converts currency rates from EUR to USD and from EUR to CHF (both ways) from currencylayer API. the app will be mainly composed from 2 views:
-1. A view with a form includes the **value to convert**, **From** and **to** currencies. Submitting the form will show the result of the conversion but also it will **save the value, from , to and the result in the database**.
+1. A view with a form includes the **value to convert**, **from** and **to** currencies. Submitting the form will show the result of the conversion but also it will **save the value, from, to and the result in the database**.
 2. A view includes a table with all the history of currency conversions.
 ## Constraints
 -   Use  `money-currencylayer-bank`  gem ​
 - [https://currencylayer.com](https://currencylayer.com/) you'll have to sign up for a free account to get the API key
 ## Hints
  - http://sinatrarb.com/intro.html
- - https://datamapper.org/getting-started.html
+ - https://rom-rb.org/learn/
 ## Plus
 Writing tests is always appreciated, that's why we included [*Rspec*](https://rspec.info) and [*RackTest*](https://github.com/rack-test/rack-test) in the project, all necessary configuration is already done. You can check the  [*Rspec*](https://rspec.info) and [*RackTest*](https://github.com/rack-test/rack-test) documentation.
 
 To run tests simply execute `rspec`  
 # 4. Finishing up
 - We are expecting your work to be hosted on github repo 
-- Send the challenge repo link in a email to **m.kheder@klarx.com** with subject **interns coding challenge**
+- Send the challenge repo link in a email to us 
 - We are expecting to receive your code within a week from getting the challenge email.
