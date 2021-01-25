@@ -1,3 +1,4 @@
+# Gia Huy Nguyen
 # 1. Setup
 ## Ruby & Bundler
 To be able to do this challange make sure you have installed a recent version of ruby and bunlder.
